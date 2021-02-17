@@ -1,0 +1,30 @@
+{
+  "name": "basic-nextjs",
+  "version": "1.0.0",
+  "description": "Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanrodriguezhe/basic-nextjs.git"
+  },
+  "keywords": [
+    "Next.js",
+    "ReactJS"
+  ],
+  "author": "Jose Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joanrodriguezhe/basic-nextjs/issues"
+  },
+  "homepage": "https://github.com/joanrodriguezhe/basic-nextjs#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
