@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joanrodriguezhe/basic-nextjs.git"
+    "url": "git+https://github.com/isc-joserodriguez/basic-nextjs.git"
   },
   "keywords": [
     "Next.js",
@@ -19,9 +19,9 @@
   "author": "Jose Rodriguez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joanrodriguezhe/basic-nextjs/issues"
+    "url": "https://github.com/isc-joserodriguez/basic-nextjs/issues"
   },
-  "homepage": "https://github.com/joanrodriguezhe/basic-nextjs#readme",
+  "homepage": "https://github.com/isc-joserodriguez/basic-nextjs#readme",
   "dependencies": {
     "next": "^10.0.7",
     "react": "^17.0.1",
